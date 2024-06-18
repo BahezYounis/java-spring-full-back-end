@@ -1,13 +1,13 @@
-package com.aga.ems;
+package com.aga.full_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmsBackendApplication {
+public class FullBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmsBackendApplication.class, args);
+		SpringApplication.run(FullBackendApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.aga.ems;
+package com.aga.full_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmsBackendApplicationTests {
+class FullBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
