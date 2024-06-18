@@ -1,2 +1,6 @@
 # java-spring-full-back-end
-this is about all things that i need to learn about java spring boot framework probable most of back-end concepts 
+This is about all things that i need to learn about java spring boot framework probable most of back-end concepts 
+- Registeration and login
+- User creation
+- CRUD for employee and Customer
+- using important technices like DTO, Validation, project orginization ...
