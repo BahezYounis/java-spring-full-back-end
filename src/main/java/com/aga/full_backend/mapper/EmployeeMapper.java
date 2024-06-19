@@ -1,7 +1,7 @@
-package com.aga.ems.mapper;
+package com.aga.full_backend.mapper;
 
-import com.aga.ems.dto.EmployeeDto;
-import com.aga.ems.models.Employee;
+import com.aga.full_backend.dto.EmployeeDto;
+import com.aga.full_backend.models.Employee;
 
 public class EmployeeMapper {
 

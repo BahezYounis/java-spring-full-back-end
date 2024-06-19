@@ -1,8 +1,8 @@
-package com.aga.ems.controller;
+package com.aga.full_backend.controller;
 
-import com.aga.ems.dto.CreateCustomerDTO;
-import com.aga.ems.dto.GetCustomerDTO;
-import com.aga.ems.service.CustomerService;
+import com.aga.full_backend.dto.CreateCustomerDTO;
+import com.aga.full_backend.dto.GetCustomerDTO;
+import com.aga.full_backend.service.CustomerService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

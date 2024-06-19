@@ -1,11 +1,11 @@
-package com.aga.ems.action;
+package com.aga.full_backend.action;
 
-import com.aga.ems.dto.EmployeeDto;
-import com.aga.ems.exception.ResourceNotFoundException;
-import com.aga.ems.mapper.EmployeeMapper;
-import com.aga.ems.models.Employee;
-import com.aga.ems.repository.EmployeeRepository;
-import com.aga.ems.service.EmployeeService;
+import com.aga.full_backend.dto.EmployeeDto;
+import com.aga.full_backend.exception.ResourceNotFoundException;
+import com.aga.full_backend.mapper.EmployeeMapper;
+import com.aga.full_backend.models.Employee;
+import com.aga.full_backend.repository.EmployeeRepository;
+import com.aga.full_backend.service.EmployeeService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

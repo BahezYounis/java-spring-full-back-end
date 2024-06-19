@@ -1,7 +1,8 @@
-package com.aga.ems.controller;
+package com.aga.full_backend.controller;
 
-import com.aga.ems.action.EmployeeAction;
-import com.aga.ems.dto.EmployeeDto;
+
+import com.aga.full_backend.dto.EmployeeDto;
+import com.aga.full_backend.action.EmployeeAction;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

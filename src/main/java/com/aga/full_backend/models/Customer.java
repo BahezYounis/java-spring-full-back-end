@@ -1,4 +1,4 @@
-package com.aga.ems.models;
+package com.aga.full_backend.models;
 
 import jakarta.persistence.*;
 import lombok.*;

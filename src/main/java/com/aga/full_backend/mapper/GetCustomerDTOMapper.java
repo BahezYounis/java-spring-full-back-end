@@ -1,7 +1,7 @@
-package com.aga.ems.mapper;
+package com.aga.full_backend.mapper;
 
-import com.aga.ems.dto.GetCustomerDTO;
-import com.aga.ems.models.Customer;
+import com.aga.full_backend.dto.GetCustomerDTO;
+import com.aga.full_backend.models.Customer;
 import org.springframework.stereotype.Service;
 
 import java.util.function.Function;
